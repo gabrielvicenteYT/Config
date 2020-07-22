@@ -59,7 +59,6 @@ KillAura MinPredictSize 0.5
 KillAura FailRate 0.5
 KillAura FakeSwing true
 KillAura NoInvAttack true
-LongJump Mode AACv3
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 1.0
@@ -88,7 +87,7 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY true
+Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections false
@@ -104,6 +103,5 @@ Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
 Velocity toggle true
 chat &4Vanilla kick &3is enabled.
-chat &3Don't go diagonally with &4Scaffold.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &212.07.2020
+chat &3Latest &3Update &223.07.2020
