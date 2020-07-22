@@ -36,6 +36,8 @@ ChestStealer AutoCloseMinDelay 100
 ChestStealer CloseOnFull true
 ChestStealer ChestTitle true
 ChestStealer toggle true
+Criticals Mode NoGround
+Criticals toggle true
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 70
 InventoryCleaner InvOpen true
@@ -80,8 +82,6 @@ KillAura MinPredictSize 0.5
 KillAura FailRate 0.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
-NoFall Mode CubeCraft
-NoFall toggle false
 NoSlow BlockForwardMultiplier 0.60
 NoSlow BlockStrafeMultiplier 0.60
 NoSlow ConsumeForwardMultiplier 1.0
@@ -149,4 +149,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't &3use &4LongJump &3and &4Fly&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &207.06.2020
+chat &3Latest &3Update &222.07.2020
