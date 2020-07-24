@@ -31,6 +31,13 @@ InventoryCleaner ItemDelay 25
 InventoryCleaner toggle false
 InventoryMove NoDetectable true
 InventoryMove toggle true
+Speed Mode Custom
+Speed CustomSpeed 0.33
+Speed CustomTimer 1
+Speed CustomY 0.5
+Speed CustomResetXZ true
+Speed CustomresetY true
+Speed CustomStrafe true
 KillAura MaxCPS 14
 KillAura MinCPS 8
 KillAura HurtTime 10
@@ -102,6 +109,7 @@ Velocity Mode AACPush
 Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
 Velocity toggle true
+chat &3Jump before enabling &4Fly&3.
 chat &4Vanilla kick &3is enabled.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &223.07.2020
+chat &3Latest &3Update &224.07.2020
