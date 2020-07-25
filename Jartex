@@ -35,7 +35,7 @@ InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 4.0
+KillAura Range 3.4
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.4
 KillAura Priority LivingTime
@@ -46,9 +46,9 @@ KillAura AutoBlock false
 KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
-KillAura AAC false
+KillAura AAC true
 KillAura MaxTurnSpeed 40.0
-KillAura MinTurnSpeed 35.0
+KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
 KillAura Strafe Silent
 KillAura RandomCenter false
@@ -57,8 +57,8 @@ KillAura FOV 100
 KillAura Predict true
 KillAura MaxPredictSize 1.0
 KillAura MinPredictSize 0.5
-KillAura FailRate 0.5
-KillAura FakeSwing true
+KillAura FailRate 0.1
+KillAura FakeSwing false
 KillAura NoInvAttack true
 KillAura NoInvDelay 25
 Scaffold Mode Normal
@@ -68,11 +68,10 @@ Scaffold PlaceableDelay true
 Scaffold AutoBlock false
 Scaffold Sprint false
 Scaffold Swing false
-Scaffold Search false
+Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle true
-Scaffold EagleSilent false
+Scaffold Eagle false
 Scaffold BlocksToEagle 1
 Scaffold Rotations true
 Scaffold KeepRotation true
@@ -88,12 +87,10 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Velocity Horizontal 0.01
-Velocity Vertical 0.01
-Velocity Mode SmoothReverse
-Velocity SmoothReverseStrength 0.05
+Velocity Horizontal 0.0
+Velocity Vertical 0.0
+Velocity Mode Simple
 Velocity toggle true
 chat &3Disable &4KillAura &3every fight or you will hit the bot.
-chat &3Don't go diagonally with &4Scaffold.
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &209.07.2020
