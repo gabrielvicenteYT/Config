@@ -93,7 +93,7 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY false
+Scaffold SameY true
 Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections false
@@ -109,4 +109,4 @@ Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &224.07.2020
+chat &3Latest &3Update &225.07.2020
