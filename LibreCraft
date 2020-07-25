@@ -94,7 +94,7 @@ Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY false
+Scaffold SameY true
 Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections false
