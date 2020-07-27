@@ -25,7 +25,7 @@ InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
-InventoryCleaner toggle true
+InventoryCleaner toggle false
 InventoryMove NoDetectable true
 InventoryMove toggle true
 KillAura MaxCPS 13
@@ -57,7 +57,8 @@ KillAura FailRate 1.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura toggle true
-LongJump mode AACv1
+LongJump mode AACv2
+HighJumo mode AACv3
 NoFall Mode SpoofGround
 NoFall toggle true
 NoSlow BlockForwardMultiplier 1.0
@@ -107,6 +108,6 @@ targetMobs false
 targetAnimals false
 targetInvisible true
 targetDead true
-chat &3If you flag enable &4Freeze &3for 30 seconds.
-chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK &3and &9iWest_
-chat &3Latest &3Update &213.07.2020
+chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
+chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
+chat &3Latest &3Update &227.07.2020
