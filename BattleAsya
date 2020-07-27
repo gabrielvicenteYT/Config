@@ -61,7 +61,8 @@ KillAura FailRate 1.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura toggle true
-LongJump mode AACv1
+LongJump mode AACv2
+HighJump mode AACv3
 NoFall Mode SpoofGround
 NoFall toggle true
 NoSlow BlockForwardMultiplier 1.0
@@ -111,5 +112,6 @@ targetMobs false
 targetAnimals false
 targetInvisible true
 targetDead true
+chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &227.07.2020
