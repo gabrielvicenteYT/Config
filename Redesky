@@ -25,7 +25,7 @@ InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
-InventoryCleaner toggle true
+InventoryCleaner toggle false
 InventoryMove NoDetectable true
 InventoryMove toggle true
 KillAura MaxCPS 13
