@@ -27,7 +27,7 @@ InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
-InventoryCleaner toggle true
+InventoryCleaner toggle false
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
