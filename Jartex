@@ -64,7 +64,7 @@ KillAura NoInvDelay 25
 Scaffold Mode Normal
 Scaffold MaxDelay 50
 Scaffold MinDelay 40
-Scaffold PlaceableDelay true
+Scaffold PlaceableDelay false
 Scaffold AutoBlock false
 Scaffold Sprint false
 Scaffold Swing false
@@ -77,7 +77,7 @@ Scaffold Rotations true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.8
+Scaffold SpeedModifier 0.0
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
