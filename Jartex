@@ -77,7 +77,7 @@ Scaffold Rotations true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.0
+Scaffold SpeedModifier 0.8
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -93,4 +93,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Disable &4KillAura &3every fight or you will hit the bot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &225.07.2020
+chat &3Latest &3Update &228.07.2020
