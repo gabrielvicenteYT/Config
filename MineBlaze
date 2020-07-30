@@ -66,6 +66,7 @@ Sprint toggle true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
+Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
 chat &3Disable &4KillAura &3every fight or you will hit the bot.
 chat &3Config &3by &9Coccocoa
