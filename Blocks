@@ -1,37 +1,41 @@
 AutoArmor MaxDelay 125
 AutoArmor MinDelay 125
-AutoArmor InvOpen true
+AutoArmor InvOpen false
+AutoArmor SimulateInventory true
 AutoArmor NoMove false
 AutoArmor ItemDelay 10
 AutoArmor Hotbar true
 AutoArmor toggle true
-ChestStealer MaxDelay 45
-ChestStealer MinDelay 35
-ChestStealer TakeRandomized false
+ChestStealer MaxDelay 60
+ChestStealer MinDelay 55
+ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
 ChestStealer AutoClose true
-ChestStealer AutoCloseMaxDelay 50
-ChestStealer AutoCloseMinDelay 50
+ChestStealer AutoCloseMaxDelay 75
+ChestStealer AutoCloseMinDelay 75
 ChestStealer CloseOnFull true
 ChestStealer toggle true
 FastUse mode Instant
 FastUse toggle true
 InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 75
-InventoryCleaner InvOpen true
+InventoryCleaner InvOpen false
 InventoryCleaner NoMove false
+InventoryCleaner SimulateInventory true
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
 InventoryCleaner ItemDelay 5
 InventoryCleaner toggle false
-InventoryMove NoDetectable true
+InventoryMove NoDetectable false
+InventoryMove NoMoveClicks false
+InventoryMove AACAdditionPro true
 InventoryMove toggle true
-KillAura MaxCPS 13
+KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 4.2
+KillAura Range 4.5
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura TargetMode Single
@@ -48,7 +52,7 @@ KillAura AAC false
 KillAura MaxTurnSpeed 40.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
-KillAura Strafe Silent
+KillAura Strafe Strict
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
@@ -88,7 +92,7 @@ Scaffold Rotations true
 Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
 Scaffold Zitter false
-Scaffold Timer 0.6
+Scaffold Timer 0.65
 Scaffold SpeedModifier 0.0
 Scaffold SameY false
 Scaffold SafeWalk true
@@ -110,4 +114,4 @@ targetInvisible true
 targetDead true
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
 chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
-chat &3Latest &3Update &227.07.2020
+chat &3Latest &3Update &231.07.2020
