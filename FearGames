@@ -32,6 +32,9 @@ KillAura FailRate 1.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura NoInvDelay 100
+Criticals Mode Jump
+Criticals Delay 0
+Criticals HurtTime 10
 NoRotateSet Confirm true
 NoRotateSet ConfirmIllegalRotation true
 NoRotateSet NoZero true
