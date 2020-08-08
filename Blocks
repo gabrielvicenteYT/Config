@@ -84,8 +84,7 @@ Scaffold Swing true
 Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle true
-Scaffold EagleSilent true
+Scaffold Eagle false
 Scaffold BlocksToEagle 0
 Scaffold ExpandLength 1
 Scaffold Rotations true
@@ -114,4 +113,4 @@ targetInvisible true
 targetDead true
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
 chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
-chat &3Latest &3Update &231.07.2020
+chat &3Latest &3Update &208.08.2020
