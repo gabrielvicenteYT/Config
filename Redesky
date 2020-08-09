@@ -52,8 +52,8 @@ KillAura Strafe Silent
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
-KillAura Predict false
-KillAura FailRate 1.0
+KillAura Predict true
+KillAura FailRate 1.5
 KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura toggle true
@@ -78,10 +78,8 @@ Scaffold Swing true
 Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle true
-Scaffold EagleSilent true
+Scaffold Eagle false
 Scaffold BlocksToEagle 0
-Scaffold ExpandLength 1
 Scaffold Rotations true
 Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
@@ -103,4 +101,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &227.07.2020
+chat &3Latest &3Update &209.08.2020
