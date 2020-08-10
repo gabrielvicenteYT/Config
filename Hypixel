@@ -37,6 +37,7 @@ ChestStealer CloseOnFull true
 ChestStealer ChestTitle true
 ChestStealer toggle true
 Criticals Mode NoGround
+Criticals HurtTime 9
 Criticals toggle true
 InventoryCleaner MaxDelay 100
 InventoryCleaner MinDelay 70
@@ -149,4 +150,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't &3use &4LongJump &3and &4Fly&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &222.07.2020
+chat &3Latest &3Update &210.08.2020
