@@ -45,10 +45,10 @@ KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
-KillAura MaxTurnSpeed 40.0
-KillAura MinTurnSpeed 40.0
+KillAura MaxTurnSpeed 0.0
+KillAura MinTurnSpeed 0.0
 KillAura SilentRotation true
-KillAura Strafe Silent
+KillAura Strafe Off
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
@@ -101,4 +101,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &209.08.2020
+chat &3Latest &3Update &213.08.2020
