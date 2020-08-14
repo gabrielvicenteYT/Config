@@ -62,6 +62,7 @@ KillAura FakeSwing false
 KillAura NoInvAttack false
 KillAura toggle true
 LongJump mode AACv2
+LongJump AutoJump true
 HighJump mode AACv3
 NoFall Mode SpoofGround
 NoFall toggle true
