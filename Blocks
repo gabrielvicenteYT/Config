@@ -35,7 +35,7 @@ InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 4.5
+KillAura Range 4.2
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura TargetMode Single
@@ -112,4 +112,4 @@ targetInvisible true
 targetDead true
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
 chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
-chat &3Latest &3Update &208.08.2020
+chat &3Latest &3Update &214.08.2020
