@@ -87,7 +87,7 @@ Scaffold KeepRotationLength 10
 Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 0.75
-Scaffold SpeedModifier 0.80
+Scaffold SpeedModifier 0.0
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -104,4 +104,4 @@ Velocity toggle true
 chat &3Don't use &4Scaffold &3to much or you will not hit.
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &215.08.2020
+chat &3Latest &3Update &216.08.2020
