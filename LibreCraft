@@ -71,7 +71,7 @@ NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 1.0
 NoSlow ConsumeStrafeMultiplier 1.0
 NoSlow BowForwardMultiplier 0.2
-NoSlow BowStrafeMultiplier 0.2
+NoSlow BowStrafeMultiplier 1.0
 NoSlow Packet false
 NoSlow toggle true
 Phase Mode Mineplex
@@ -81,20 +81,17 @@ Scaffold MinDelay 40
 Scaffold PlaceableDelay true
 Scaffold AutoBlock false
 Scaffold StayAutoBlock true
-Scaffold Sprint false
-Scaffold Swing true
+Scaffold Sprint true
+Scaffold Swing false
 Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle true
-Scaffold EagleSilent true
-Scaffold BlocksToEagle 1
-Scaffold Rotations true
-Scaffold KeepRotation true
+Scaffold Eagle false
+Scaffold Rotations false
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY true
+Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections false
@@ -114,4 +111,4 @@ chat &3Don't use &4Fly &3in grass.
 chat &4Vanilla kick &3is enabled.
 chat &3Don't use &4ChestStealer&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &219.08.2020
+chat &3Latest &3Update &221.08.2020
