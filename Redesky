@@ -39,7 +39,7 @@ KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
-KillAura DelayedBlock true
+KillAura DelayedBlock false
 KillAura BlockRate 100
 KillAura RayCast false
 KillAura RayCastIgnored false
@@ -61,6 +61,7 @@ KillAura NoInvAttack false
 LongJump mode AACv2
 LongJump AutoJump true
 HighJump mode AACv3
+HighJump OnlyGlassPane false
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 0.2
@@ -104,4 +105,4 @@ Velocity toggle true
 chat &3Don't use &4Scaffold &3to much or you will not hit.
 chat &3Bind &4LongJump &3and &4HighJump &3at the same key. 
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &216.08.2020
+chat &3Latest &3Update &224.08.2020
