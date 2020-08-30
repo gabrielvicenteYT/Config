@@ -40,7 +40,7 @@ KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura TargetMode Single
 KillAura Swing true
-KillAura KeepSprint true
+KillAura KeepSprint false
 KillAura AutoBlock true
 KillAura InteractAutoBlock false
 KillAura DelayedBlock false
