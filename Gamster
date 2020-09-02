@@ -1,9 +1,8 @@
 AutoArmor MaxDelay 65
 AutoArmor MinDelay 65
-AutoArmor InvOpen true
-AutoArmor SimulateInventory false
+AutoArmor SimulateInventory true
 AutoArmor NoMove false
-AutoArmor ItemDelay 10
+AutoArmor ItemDelay 25
 AutoArmor Hotbar true
 AutoArmor toggle true
 ChestStealer MaxDelay 35
@@ -30,10 +29,10 @@ KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint false
 KillAura AutoBlock false
-KillAura RayCast false
+KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
-KillAura AAC false
+KillAura AAC true
 KillAura MaxTurnSpeed 40.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
@@ -48,14 +47,6 @@ KillAura FailRate 0.5
 KillAura FakeSwing true
 KillAura NoInvAttack true
 KillAura NoInvDelay 25
-NoSlow BlockForwardMultiplier 1.0
-NoSlow BlockStrafeMultiplier 1.0
-NoSlow ConsumeForwardMultiplier 0.4
-NoSlow ConsumeStrafeMultiplier 0.4
-NoSlow BowForwardMultiplier 0.4
-NoSlow BowStrafeMultiplier 0.4
-NoSlow Packet false
-NoSlow toggle true
 Scaffold Mode Normal
 Scaffold MaxDelay 50
 Scaffold MinDelay 40
@@ -86,10 +77,10 @@ Sprint toggle true
 Velocity Horizontal 0.01
 Velocity Vertical 0.01
 Velocity Mode SmoothReverse
-Velocity SmoothReverseStrength 0.05
+Velocity SmoothReverseStrength 0.03
 Velocity toggle true
 chat &3Don't &3use &4Inventory Cheats&3.
 chat &3Disable &4KillAura &3every fight or you will hit the bot.
 chat &3Don't go diagonally with &4Scaffold.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &231.08.2020
+chat &3Latest &3Update &202.09.2020
