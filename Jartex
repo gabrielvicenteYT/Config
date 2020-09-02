@@ -1,18 +1,3 @@
-AntiBot Tab true
-AntiBot TabMode Contains
-AntiBot EntityID true
-AntiBot Color true
-AntiBot LivingTime true
-AntiBot Ground true
-AntiBot Air false
-AntiBot InvalidGround false
-AntiBot Swing false
-AntiBot Health false
-AntiBot Derp true
-AntiBot WasInvisible false
-AntiBot Armor false
-AntiBot Ping false
-AntiBot NeedHit false
 AutoArmor MaxDelay 45
 AutoArmor MinDelay 45
 AutoArmor InvOpen false
@@ -79,7 +64,7 @@ KillAura NoInvDelay 25
 Scaffold Mode Normal
 Scaffold MaxDelay 50
 Scaffold MinDelay 40
-Scaffold PlaceableDelay false
+Scaffold PlaceableDelay true
 Scaffold AutoBlock false
 Scaffold Sprint false
 Scaffold Swing false
@@ -116,4 +101,4 @@ Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
 chat &3Disable &4KillAura &3every fight or you will hit the bot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &229.07.2020
+chat &3Latest &3Update &202.09.2020
