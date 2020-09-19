@@ -91,7 +91,7 @@ Scaffold Rotations false
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY false
+Scaffold SameY true
 Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections false
@@ -109,4 +109,4 @@ chat &3Don't use &4Fly &3in grass.
 chat &4Vanilla kick &3is enabled.
 chat &3Don't use &4ChestStealer&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &225.08.2020
+chat &3Latest &3Update &209.09.2020
