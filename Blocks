@@ -107,6 +107,6 @@ targetMobs false
 targetAnimals false
 targetInvisible true
 targetDead true
-chat If you want to go up put &4LongJump to &4AACv1, you will flag a lot.
+chat For HighJump put &4LongJump to &4AACv1, you will flag a lot.
 chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
 chat &3Latest &3Update &201.10.2020
