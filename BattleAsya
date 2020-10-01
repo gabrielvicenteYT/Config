@@ -112,6 +112,6 @@ targetMobs false
 targetAnimals false
 targetInvisible true
 targetDead true
-chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
+chat &eBind &4LongJump &eand &4HighJump &eat the same key.
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &201.10.2020
