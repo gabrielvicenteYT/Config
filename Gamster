@@ -1,10 +1,3 @@
-AutoArmor MaxDelay 65
-AutoArmor MinDelay 65
-AutoArmor SimulateInventory true
-AutoArmor NoMove false
-AutoArmor ItemDelay 25
-AutoArmor Hotbar true
-AutoArmor toggle true
 ChestStealer MaxDelay 35
 ChestStealer MinDelay 35
 ChestStealer TakeRandomized false
@@ -79,8 +72,7 @@ Velocity Vertical 0.01
 Velocity Mode SmoothReverse
 Velocity SmoothReverseStrength 0.03
 Velocity toggle true
-chat &3Don't &3use &4Inventory Cheats&3.
+chat &eDon't &3use &4Inventory Cheats&e.
 chat &3Disable &4KillAura &3every fight or you will hit the bot.
-chat &3Don't go diagonally with &4Scaffold.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &202.09.2020
+chat &3Latest &3Update &201.10.2020
