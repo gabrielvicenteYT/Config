@@ -6,17 +6,6 @@ AutoArmor NoMove true
 AutoArmor ItemDelay 25
 AutoArmor Hotbar true
 AutoArmor toggle true
-ChestStealer MaxDelay 150
-ChestStealer MinDelay 150
-ChestStealer TakeRandomized false
-ChestStealer OnlyItems false
-ChestStealer NoCompass true
-ChestStealer AutoClose true
-ChestStealer AutoCloseMaxDelay 210
-ChestStealer AutoCloseMinDelay 210
-ChestStealer CloseOnFull true
-ChestStealer ChestTitle false
-ChestStealer toggle true
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 150
 InventoryCleaner InvOpen false
@@ -108,6 +97,6 @@ Velocity Mode AACPush
 Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
 Velocity toggle true
-chat &3Don't use &4ChestStealer&3.
+chat &EDon't use &4ChestStealer&E.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &219.08.2020
+chat &3Latest &3Update &201.10.2020
