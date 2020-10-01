@@ -21,12 +21,12 @@ FastUse toggle true
 InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen false
-InventoryCleaner NoMove false
+InventoryCleaner NoMove true
 InventoryCleaner SimulateInventory true
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
-InventoryCleaner ItemDelay 5
+InventoryCleaner ItemDelay 10
 InventoryCleaner toggle false
 InventoryMove NoDetectable false
 InventoryMove NoMoveClicks false
@@ -35,24 +35,21 @@ InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 4.2
+KillAura Range 4.5
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura TargetMode Single
 KillAura Swing true
-KillAura KeepSprint false
-KillAura AutoBlock true
-KillAura InteractAutoBlock false
-KillAura DelayedBlock false
-KillAura BlockRate 100
+KillAura KeepSprint true
+KillAura AutoBlock false
 KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
-KillAura MaxTurnSpeed 40.0
+KillAura MaxTurnSpeed 60.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
-KillAura Strafe Strict
+KillAura Strafe Silent
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
@@ -63,8 +60,6 @@ KillAura NoInvAttack false
 KillAura toggle true
 LongJump mode AACv2
 LongJump AutoJump true
-HighJump mode AACv3
-HighJump OnlyGlassPane false
 NoFall Mode SpoofGround
 NoFall toggle true
 NoSlow BlockForwardMultiplier 1.0
@@ -82,7 +77,7 @@ Scaffold PlaceableDelay true
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
-Scaffold Swing true
+Scaffold Swing false
 Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
@@ -103,15 +98,15 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Velocity Horizontal 0.0
+Velocity Horizontal 0.45
 Velocity Vertical 0.0
-Velocity Mode Simple
+Velocity Mode AAC
 Velocity toggle true
 targetPlayer true
 targetMobs false
 targetAnimals false
 targetInvisible true
 targetDead true
-chat &3Bind &4LongJump &3and &4HighJump &3at the same key.
+chat &3If you want to go up put &4LongJump &1to &1AACv1&3, you will flag a lot.
 chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
-chat &3Latest &3Update &224.08.2020
+chat &3Latest &3Update &201.10.2020
