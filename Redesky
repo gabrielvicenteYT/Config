@@ -1,3 +1,4 @@
+  
 AutoArmor MaxDelay 125
 AutoArmor MinDelay 125
 AutoArmor InvOpen false
@@ -31,44 +32,40 @@ InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 4.2
+KillAura Range 5.5
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint true
-KillAura AutoBlock true
-KillAura InteractAutoBlock false
-KillAura DelayedBlock false
-KillAura BlockRate 100
+KillAura AutoBlock false
 KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
-KillAura MaxTurnSpeed 40.0
+KillAura MaxTurnSpeed 60.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
 KillAura Strafe Silent
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 180.0
-KillAura Predict true
-KillAura MaxPredictSize 1.4
-KillAura MinPredictSize 1.0
-KillAura FailRate 1.5
-KillAura FakeSwing true
+KillAura Predict false
+KillAura FailRate 1.0
+KillAura FakeSwing false
 KillAura NoInvAttack false
+KillAura toggle true
 LongJump mode AACv2
 LongJump AutoJump true
-HighJump mode AACv3
-HighJump OnlyGlassPane false
+NoFall Mode SpoofGround
+NoFall toggle true
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 0.2
 NoSlow ConsumeStrafeMultiplier 0.2
 NoSlow BowForwardMultiplier 0.2
 NoSlow BowStrafeMultiplier 0.2
-NoSlow Packet true
+NoSlow Packet false
 NoSlow toggle true
 Scaffold Mode Normal
 Scaffold MaxDelay 45
@@ -78,16 +75,16 @@ Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing false
-Scaffold Search false
+Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
 Scaffold Eagle false
-Scaffold BlocksToEagle 0
+Scaffold ExpandLength 1
 Scaffold Rotations true
-Scaffold KeepRotationLength 10
+Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
 Scaffold Zitter false
-Scaffold Timer 0.75
+Scaffold Timer 0.65
 Scaffold SpeedModifier 0.0
 Scaffold SameY false
 Scaffold SafeWalk true
@@ -98,10 +95,10 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Velocity Horizontal 0.0
+Velocity Horizontal 0.45
 Velocity Vertical 0.0
-Velocity Mode Simple
+Velocity Mode AAC
 Velocity toggle true
-chat &3Bind &4LongJump &3and &4HighJump &3at the same key. 
+chat For HighJump put &4LongJump &eto &4AACv1&e, but you will flag a lot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &224.08.2020
+chat &3Latest &3Update &204.10.2020
