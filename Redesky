@@ -6,8 +6,8 @@ AutoArmor NoMove false
 AutoArmor ItemDelay 10
 AutoArmor Hotbar true
 AutoArmor toggle true
-ChestStealer MaxDelay 55
-ChestStealer MinDelay 45
+ChestStealer MaxDelay 100
+ChestStealer MinDelay 100
 ChestStealer TakeRandomized true
 ChestStealer OnlyItems false
 ChestStealer NoCompass true
@@ -68,7 +68,7 @@ NoSlow ConsumeForwardMultiplier 0.2
 NoSlow ConsumeStrafeMultiplier 0.2
 NoSlow BowForwardMultiplier 0.2
 NoSlow BowStrafeMultiplier 0.2
-NoSlow Packet false
+NoSlow Packet true
 NoSlow toggle true
 Scaffold Mode Normal
 Scaffold MaxDelay 45
@@ -104,4 +104,4 @@ Velocity Mode AAC
 Velocity toggle true
 chat For HighJump put &4LongJump &eto &4AACv1&e, but you will flag a lot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &204.10.2020
+chat &3Latest &3Update &205.10.2020
