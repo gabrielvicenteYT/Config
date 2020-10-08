@@ -95,8 +95,8 @@ Velocity Mode Simple
 Velocity toggle true
 Blink Pulse false
 Timer Speed 5
-chat &3You can bind &4Blink &3and &4Timer at the same key of fly
-chat &3Don't use &4Fly &3in grass.
-chat &3Don't use &4ChestStealer&3.
+chat &EYou can bind &4Blink &3and &4Timer &Eat the same key of fly.
+chat &EDon't use &4Fly &Ein grass.
+chat &EDon't use &4ChestStealer&E.
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &208.10.2020
