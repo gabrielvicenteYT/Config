@@ -104,7 +104,9 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
-chat &EYou can bind &4Blink &3and &4Timer &Eat the same key of fly.
+Blink Pulse false
+Timer Speed 2
+chat &EYou can bind &4Blink &Eand &4Timer &Eat the same key of &4Fly &Eat your own risk.
 chat &EDon't use &4Fly &Ein grass.
 chat &4Vanilla kick &Eis enabled.
 chat &EDon't use &4ChestStealer&E.
