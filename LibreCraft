@@ -104,9 +104,9 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
-chat &3Jump before enabling &4Fly&3.
-chat &3Don't use &4Fly &3in grass.
-chat &4Vanilla kick &3is enabled.
-chat &3Don't use &4ChestStealer&3.
+chat &EYou can bind &4Blink &3and &4Timer &Eat the same key of fly.
+chat &EDon't use &4Fly &Ein grass.
+chat &4Vanilla kick &Eis enabled.
+chat &EDon't use &4ChestStealer&E.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &209.09.2020
+chat &3Latest &3Update &208.10.2020
