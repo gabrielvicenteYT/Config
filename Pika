@@ -23,7 +23,7 @@ InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 75
 InventoryCleaner InvOpen false
 InventoryCleaner SimulateInventory true
-InventoryCleaner NoMove false
+InventoryCleaner NoMove true
 InventoryCleaner IgnoreVehicles false
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
@@ -41,7 +41,7 @@ KillAura RangeSprintReducement 0.4
 KillAura Priority LivingTime
 KillAura TargetMode Single
 KillAura Swing true
-KillAura KeepSprint true
+KillAura KeepSprint false q 
 KillAura AutoBlock false
 KillAura RayCast false
 KillAura RayCastIgnored false
@@ -50,7 +50,7 @@ KillAura AAC true
 KillAura MaxTurnSpeed 40.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
-KillAura Strafe Silent
+KillAura Strafe Off
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 100
@@ -99,6 +99,5 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
-chat &3Disable &4KillAura &3every fight or you will hit the bot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &202.09.2020
+chat &3Latest &3Update &215.10.2020
