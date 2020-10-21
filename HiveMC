@@ -42,7 +42,7 @@ KillAura AutoBlock true
 KillAura InteractAutoBlock false
 KillAura DelayedBlock false
 KillAura BlockRate 100
-KillAura RayCast true
+KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
@@ -98,10 +98,10 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Step Mode LAAC
-Step Height 2.0
+Step Mode AAC
+Step Height 1.0
 Step JumpHeight 0.30
-Step Delay 0
+Step Delay 100
 Step toggle true
 Tower Mode Packet
 Tower AutoBlock true
@@ -134,4 +134,4 @@ targetInvisible false
 targetDead true
 chat &4NoFall &3can be enabled.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &201.10.2020
+chat &3Latest &3Update &221.10.2020
