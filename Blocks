@@ -3,7 +3,7 @@ AutoArmor MinDelay 125
 AutoArmor InvOpen false
 AutoArmor SimulateInventory true
 AutoArmor NoMove false
-AutoArmor ItemDelay 25
+AutoArmor ItemDelay 50
 AutoArmor Hotbar true
 AutoArmor toggle true
 ChestStealer MaxDelay 120
@@ -109,5 +109,5 @@ targetAnimals false
 targetInvisible true
 targetDead true
 chat For HighJump put &4LongJump &eto &4AACv1&e, but you will flag a lot.
-chat &3Config &3by &9Coccocoa, &3helped by &9Ne_HOO64UK
-chat &3Latest &3Update &220.10.2020
+chat &3Config &3by &9Coccocoa
+chat &3Latest &3Update &230.10.2020
