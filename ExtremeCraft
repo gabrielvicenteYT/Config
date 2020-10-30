@@ -6,6 +6,8 @@ AutoArmor NoMove true
 AutoArmor ItemDelay 25
 AutoArmor Hotbar true
 AutoArmor toggle true
+Fly Mode Vanilla
+Fly VanillaSpeed 5
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 150
 InventoryCleaner InvOpen false
@@ -91,12 +93,14 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
+Timer Speed 0.1
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode AACPush
 Velocity AACPushXZReducer 3.0
 Velocity AACPushYReducer true
 Velocity toggle true
+chat &EBind &4Fly &Eand &4Speed &Eat the same key.
 chat &EDon't use &4ChestStealer&E.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &201.10.2020
+chat &3Latest &3Update &230.10.2020
