@@ -55,7 +55,7 @@ InventoryMove NoMoveClicks false
 InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
-KillAura HurtTime 10
+KillAura HurtTime 9
 KillAura Range 4.2
 KillAura ThroughWallsRange 2.5
 KillAura RangeSprintReducement 0.0
@@ -95,8 +95,8 @@ PingSpoof MaxDelay 1000
 PingSpoof MinDelay 750
 PingSpoof toggle true
 Scaffold Mode Normal
-Scaffold MaxDelay 0
-Scaffold MinDelay 0
+Scaffold MaxDelay 57
+Scaffold MinDelay 47
 Scaffold PlaceableDelay true
 Scaffold AutoBlock true
 Scaffold StayAutoBlock true
@@ -150,4 +150,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't &3use &4LongJump &3and &4Fly&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &210.08.2020
+chat &3Latest &3Update &230.10.2020
