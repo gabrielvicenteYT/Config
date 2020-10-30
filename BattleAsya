@@ -112,6 +112,6 @@ targetMobs false
 targetAnimals false
 targetInvisible true
 targetDead true
-chat &eBind &4LongJump &eand &4HighJump &eat the same key.
+chat For HighJump put &4LongJump &eto &4AACv1&e, but you will flag a lot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &201.10.2020
+chat &3Latest &3Update &230.10.2020
