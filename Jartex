@@ -50,7 +50,7 @@ KillAura AAC true
 KillAura MaxTurnSpeed 40.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
-KillAura Strafe Off
+KillAura Strafe Silent
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 100
@@ -58,7 +58,7 @@ KillAura Predict true
 KillAura MaxPredictSize 1.0
 KillAura MinPredictSize 0.5
 KillAura FailRate 0.1
-KillAura FakeSwing false
+KillAura FakeSwing true
 KillAura NoInvAttack true
 KillAura NoInvDelay 25
 Scaffold Mode Normal
@@ -77,7 +77,7 @@ Scaffold Rotations true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.8
+Scaffold SpeedModifier 0.75
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -100,4 +100,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &220.09.2020
+chat &3Latest &3Update &230.10.2020
