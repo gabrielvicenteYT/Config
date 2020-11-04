@@ -7,7 +7,7 @@ KillAura RangeSprintReducement 0.4
 KillAura Priority LivingTime
 KillAura TargetMode Single
 KillAura Swing true
-KillAura KeepSprint false q 
+KillAura KeepSprint false
 KillAura AutoBlock false
 KillAura RayCast false
 KillAura RayCastIgnored false
