@@ -41,7 +41,7 @@ KillAura RangeSprintReducement 0.4
 KillAura Priority LivingTime
 KillAura TargetMode Single
 KillAura Swing true
-KillAura KeepSprint false q 
+KillAura KeepSprint false
 KillAura AutoBlock false
 KillAura RayCast false
 KillAura RayCastIgnored false
@@ -100,4 +100,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &230.10.2020
+chat &3Latest &3Update &204.11.2020
