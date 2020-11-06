@@ -105,8 +105,7 @@ Velocity Mode Simple
 Velocity toggle true
 Blink Pulse false
 Timer Speed 2
-chat &EYou can bind &4Blink &Eand &4Timer &Eat the same key of &4Fly, &Emay autobans.
-chat &EDon't use &4Fly &Ein grass.
-chat &EDon't use &4ChestStealer&E.
+chat &EYou can bind &4Blink &Eand &4Timer &Eat the same key of &4Fly, &Emay autoban.
+chat &EDon't use &4Fly &Ein grass..
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &208.10.2020
+chat &3Latest &3Update &206.11.2020
