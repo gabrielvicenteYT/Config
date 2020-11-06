@@ -6,6 +6,16 @@ AutoArmor NoMove true
 AutoArmor ItemDelay 50
 AutoArmor Hotbar false
 AutoArmor toggle true
+ChestStealer MaxDelay 120
+ChestStealer MinDelay 100
+ChestStealer TakeRandomized true
+ChestStealer OnlyItems false
+ChestStealer NoCompass true
+ChestStealer AutoClose true
+ChestStealer AutoCloseMaxDelay 150
+ChestStealer AutoCloseMinDelay 50
+ChestStealer CloseOnFull true
+ChestStealer ChestTitle true
 Fly Mode Rewinside
 InventoryCleaner MaxDelay 150
 InventoryCleaner MinDelay 135
