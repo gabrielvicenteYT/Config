@@ -32,7 +32,7 @@ Scaffold Mode Normal
 Scaffold MaxDelay 160
 Scaffold MinDelay 160
 Scaffold PlaceableDelay true
-Scaffold AutoBlock false
+Scaffold AutoBlock true
 Scaffold StayAutoBlock true
 Scaffold Sprint false
 Scaffold Swing false
