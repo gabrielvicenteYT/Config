@@ -16,7 +16,7 @@ ChestStealer AutoClose true
 ChestStealer AutoCloseMaxDelay 150
 ChestStealer AutoCloseMinDelay 50
 ChestStealer CloseOnFull true
-ChestStealer toggle true
+ChestStealer toggle false
 FastUse mode Instant
 FastUse toggle true
 InventoryCleaner MaxDelay 0
@@ -88,7 +88,7 @@ Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.0
+Scaffold SpeedModifier 1.0
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
