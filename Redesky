@@ -82,13 +82,12 @@ Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
 Scaffold Eagle false
-Scaffold ExpandLength 1
 Scaffold Rotations true
 Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 1.0
+Scaffold SpeedModifier 0.0
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -104,4 +103,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat For HighJump put &4LongJump &eto &4AACv1&e, but you will flag a lot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &212.11.2020
+chat &3Latest &3Update &216.11.2020
