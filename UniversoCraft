@@ -72,20 +72,19 @@ Scaffold MaxDelay 50
 Scaffold MinDelay 40
 Scaffold PlaceableDelay true
 Scaffold AutoBlock false
-Scaffold StayAutoBlock true
-Scaffold Sprint true
-Scaffold Swing false
+Scaffold Sprint false
+Scaffold Swing true
 Scaffold Search true
-Scaffold Down false
 Scaffold PlaceTiming Pre
-Scaffold Eagle false
-Scaffold Rotations false
+Scaffold Eagle true
+Scaffold EagleSilent true
+Scaffold BlocksToEagle 1
+Scaffold Rotations true
+Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY true
-Scaffold SafeWalk true
-Scaffold AirSafe false
+Scaffold AirSafe true
 Speed Mode Custom
 Speed CustomSpeed 0.31
 Speed CustomTimer 1
@@ -108,4 +107,4 @@ Timer Speed 2
 chat &EYou can bind &4Blink &Eand &4Timer &Eat the same key of &4Fly, &Emay autoban.
 chat &EDon't use &4Fly &Ein grass.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &211.11.2020
+chat &3Latest &3Update &216.11.2020
