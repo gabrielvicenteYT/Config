@@ -31,13 +31,13 @@ InventoryCleaner ItemDelay 5
 InventoryCleaner toggle false
 InventoryMove NoDetectable true
 InventoryMove toggle true
-KillAura MaxCPS 14
-KillAura MinCPS 10
+KillAura MaxCPS 20
+KillAura MinCPS 14
 KillAura HurtTime 10
 KillAura Range 5.75
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
-KillAura TargetMode Single
+KillAura TargetMode Switch
 KillAura Swing true
 KillAura KeepSprint true
 KillAura AutoBlock true
@@ -48,8 +48,8 @@ KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
-KillAura MaxTurnSpeed 0.0
-KillAura MinTurnSpeed 0.0
+KillAura MaxTurnSpeed 50.0
+KillAura MinTurnSpeed 45.0
 KillAura SilentRotation true
 KillAura Strafe Silent
 KillAura RandomCenter false
@@ -86,7 +86,7 @@ Scaffold Rotations true
 Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
 Scaffold Zitter false
-Scaffold Timer 1.0
+Scaffold Timer 0.80
 Scaffold SpeedModifier 0.0
 Scaffold SameY false
 Scaffold SafeWalk true
@@ -103,4 +103,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat For HighJump put &4LongJump &eto &4AACv1&e, but you will flag a lot.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &216.11.2020
+chat &3Latest &3Update &221.11.2020
