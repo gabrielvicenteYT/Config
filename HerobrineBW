@@ -1,7 +1,7 @@
 KillAura MaxCPS 14
 KillAura MinCPS 10
-KillAura HurtTime 9
-KillAura Range 3.4
+KillAura HurtTime 10
+KillAura Range 3.2
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.4
 KillAura Priority LivingTime
@@ -32,8 +32,7 @@ Scaffold Mode Normal
 Scaffold MaxDelay 160
 Scaffold MinDelay 160
 Scaffold PlaceableDelay true
-Scaffold AutoBlock true
-Scaffold StayAutoBlock true
+Scaffold AutoBlock false
 Scaffold Sprint false
 Scaffold Swing false
 Scaffold Search true
@@ -76,4 +75,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &204.11.2020
+chat &3Latest &3Update &224.11.2020
