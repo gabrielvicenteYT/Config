@@ -34,7 +34,7 @@ KillAura MaxCPS 13
 KillAura MinCPS 9
 KillAura HurtTime 10
 KillAura Range 3.0
-KillAura ThroughWallsRange 2.0
+KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Switch
@@ -58,11 +58,6 @@ KillAura MinPredictSize 1.0
 KillAura FailRate 0.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
-KillAura LimitedMultiTargets 0
-NoRotateSet Confirm true
-NoRotateSet ConfirmIllegalRotation false
-NoRotateSet NoZero false
-NoRotateSet toggle true
 NoSlow BlockForwardMultiplier 0.2
 NoSlow BlockStrafeMultiplier 0.2
 NoSlow ConsumeForwardMultiplier 1.0
