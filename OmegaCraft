@@ -34,7 +34,7 @@ KillAura MaxCPS 13
 KillAura MinCPS 9
 KillAura HurtTime 10
 KillAura Range 3.0
-KillAura ThroughWallsRange 0.0
+KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Direction
 KillAura TargetMode Switch
@@ -98,6 +98,6 @@ Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &202.12.2020
+chat &3Latest &3Update &203.12.2020
 chat &4InventoryCleaner &Emay autoban while fighting.
 chat &EDon't go up with &4Scaffold&E.
