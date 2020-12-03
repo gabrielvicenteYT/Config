@@ -84,7 +84,7 @@ Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1.0
 Scaffold SpeedModifier 1.0
-Scaffold SameY false
+Scaffold SameY true
 Scaffold SafeWalk true
 Scaffold AirSafe false
 Sprint AllDirections true
@@ -100,4 +100,3 @@ Velocity toggle true
 chat &3Config &3by &9Coccocoa
 chat &3Latest &3Update &203.12.2020
 chat &4InventoryCleaner &Emay autoban while fighting.
-chat &EDon't go up with &4Scaffold&E.
