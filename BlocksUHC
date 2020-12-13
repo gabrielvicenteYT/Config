@@ -83,7 +83,6 @@ Scaffold Search true
 Scaffold Down false
 Scaffold PlaceTiming Pre
 Scaffold Eagle false
-Scaffold ExpandLength 1
 Scaffold Rotations true
 Scaffold KeepRotationLength 8
 Scaffold KeepRotation false
