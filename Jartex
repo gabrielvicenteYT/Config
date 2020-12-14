@@ -98,6 +98,6 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
-chat &3Don't strafe with &4Speed&3.
+chat Don't strafe with &4Speed&e.
+chat Don't go diagonally with &4Scaffold&e.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &214.12.2020
