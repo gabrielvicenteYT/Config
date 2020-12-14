@@ -28,14 +28,14 @@ InventoryCleaner IgnoreVehicles false
 InventoryCleaner Hotbar true
 InventoryCleaner RandomSlot false
 InventoryCleaner Sort true
-InventoryCleaner ItemDelay 5
+InventoryCleaner ItemDelay 10
 InveotoryCleaner toggle true
 InventoryMove NoDetectable true
 InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
-KillAura HurtTime 9
-KillAura Range 3.4
+KillAura HurtTime 10
+KillAura Range 3.0
 KillAura ThroughWallsRange 2.0
 KillAura RangeSprintReducement 0.4
 KillAura Priority LivingTime
@@ -43,24 +43,24 @@ KillAura TargetMode Single
 KillAura Swing true
 KillAura KeepSprint false
 KillAura AutoBlock false
-KillAura RayCast false
+KillAura RayCast true
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
-KillAura AAC true
-KillAura MaxTurnSpeed 40.0
+KillAura AAC false
+KillAura MaxTurnSpeed 60.0
 KillAura MinTurnSpeed 40.0
 KillAura SilentRotation true
-KillAura Strafe Silent
+KillAura Strafe Strict
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 100
 KillAura Predict true
-KillAura MaxPredictSize 1.0
+KillAura MaxPredictSize 0.5
 KillAura MinPredictSize 0.5
 KillAura FailRate 0.1
-KillAura FakeSwing true
+KillAura FakeSwing false
 KillAura NoInvAttack true
-KillAura NoInvDelay 25
+KillAura NoInvDelay 75
 Scaffold Mode Normal
 Scaffold MaxDelay 50
 Scaffold MinDelay 40
@@ -77,7 +77,7 @@ Scaffold Rotations true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.75
+Scaffold SpeedModifier 0.2
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -100,4 +100,4 @@ Velocity Mode Simple
 Velocity toggle true
 chat &3Don't strafe with &4Speed&3.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &204.11.2020
+chat &3Latest &3Update &214.12.2020
