@@ -77,7 +77,7 @@ Scaffold Rotations true
 Scaffold KeepRotation true
 Scaffold Zitter false
 Scaffold Timer 1.0
-Scaffold SpeedModifier 0.2
+Scaffold SpeedModifier 0.3
 Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe false
@@ -101,3 +101,4 @@ Velocity toggle true
 chat Don't strafe with &4Speed&e.
 chat Don't go diagonally with &4Scaffold&e.
 chat &3Config &3by &9Coccocoa
+chat &3Latest &3Update &215.12.2020
