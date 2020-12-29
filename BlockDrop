@@ -84,7 +84,13 @@ Scaffold SameY false
 Scaffold SafeWalk true
 Scaffold AirSafe true
 Scaffold toggle true
-Speed Mode Matrix
+Speed Mode Custom
+Speed CustomSpeed 0.4
+Speed CustomY 0.42
+Speed CustomTimer 1.0
+Speed CustomStrafe false
+Speed CustomResetXZ false
+Speed CustomResetY false
 Sprint AllDirections false
 Sprint Blindness true
 Sprint Food true
