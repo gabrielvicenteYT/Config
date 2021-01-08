@@ -37,50 +37,30 @@ KillAura MinCPS 10
 KillAura HurtTime 10
 KillAura Range 3.0
 KillAura ThroughWallsRange 2.0
-KillAura RangeSprintReducement 0.4
+KillAura RangeSprintReducement 0.0
 KillAura Priority LivingTime
 KillAura TargetMode Single
 KillAura Swing true
-KillAura KeepSprint false
-KillAura AutoBlock false
-KillAura RayCast true
+KillAura KeepSprint true
+KillAura AutoBlock off
+KillAura RayCast false
 KillAura RayCastIgnored false
 KillAura LivingRayCast false
 KillAura AAC false
 KillAura MaxTurnSpeed 60.0
-KillAura MinTurnSpeed 40.0
+KillAura MinTurnSpeed 60.0
 KillAura SilentRotation true
-KillAura Strafe Strict
+KillAura Strafe Silent
 KillAura RandomCenter false
 KillAura Outborder false
 KillAura FOV 100
 KillAura Predict true
-KillAura MaxPredictSize 0.5
+KillAura MaxPredictSize 1.0
 KillAura MinPredictSize 0.5
 KillAura FailRate 0.1
 KillAura FakeSwing false
 KillAura NoInvAttack true
 KillAura NoInvDelay 75
-Scaffold Mode Normal
-Scaffold MaxDelay 50
-Scaffold MinDelay 40
-Scaffold PlaceableDelay true
-Scaffold AutoBlock false
-Scaffold Sprint false
-Scaffold Swing false
-Scaffold Search true
-Scaffold Down false
-Scaffold PlaceTiming Pre
-Scaffold Eagle false
-Scaffold BlocksToEagle 1
-Scaffold Rotations true
-Scaffold KeepRotation true
-Scaffold Zitter false
-Scaffold Timer 1.0
-Scaffold SpeedModifier 0.3
-Scaffold SameY false
-Scaffold SafeWalk true
-Scaffold AirSafe false
 Speed Mode Custom
 Speed CustomSpeed 0.4
 Speed CustomY 0.42
@@ -94,11 +74,12 @@ Sprint Food true
 Sprint CheckServerSide true
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Velocity Horizontal 0.0
+Velocity Horizontal 0.45
 Velocity Vertical 0.0
-Velocity Mode Simple
+Velocity Mode AAC
 Velocity toggle true
+chat Don't use &4KillAura &ewhile using &4Speed&e.
 chat Don't strafe with &4Speed&e.
-chat Don't go diagonally with &4Scaffold&e.
+chat Some modules are not bypassing anymore in b72.
 chat &3Config &3by &9Coccocoa
-chat &3Latest &3Update &215.12.2020
+chat &3Latest &3Update &209.01.2021
